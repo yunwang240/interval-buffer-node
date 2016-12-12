@@ -1,2 +1,2 @@
 # interval-buffer-node
-Buffers the requests in certain interval.
+Buffers the messages in certain interval.
